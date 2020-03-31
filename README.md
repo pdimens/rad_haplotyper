@@ -40,7 +40,11 @@ conda create -n rad_haplotyper_env rad_haplotyper
 Activate the rad_haplotyper environment:
 
 ```
+# python2
 source activate rad_haplotyper_env
+
+# python3
+conda activate rad_haplotyper_env
 ```
 
 And that's it!
